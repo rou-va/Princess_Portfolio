@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Princess Ahanonu</title>
+    <link>https://rou-va.github.io/Princess_Portfolio/post/</link>
+    <description>Recent content in Projects on Princess Ahanonu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rou-va.github.io/Princess_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Movie Recommendation Engine</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-1-/</link>
+      <pubDate>Tue, 22 Nov 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-1-/</guid>
+      <description>Created a tool that recommends movies to concerned users
+Scraped the details of IMDB Top 1000 most popular movies using python and beautifulsoup
+Analysed data and got relevant insights such as the most profitable genres, most popular movies and IMDB&amp;rsquo;s gross profit for english and foreign movies
+Engineered features from the details of each movie to try to find similar movies for users based on users past preferences. After which, the engine provides recommendations to the user</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Popular Female Fitness Youtubers Analysis</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 11 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-2/</guid>
+      <description>Performed an exploratory analysis on 7 of the most popular female fitness trainers on youtube Scraped all youtube content details and descriptions for all youtubers using the youtube API and JSON converter Built multiple graphs that generates insights into the ongoings of each fitness youtuber and their growth in the field Comparison of the subscriber count of each youtuber Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: EDA of Nigerian Education with Visualizations</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 29 Oct 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-3/</guid>
+      <description>Performed an extensive exploratory analysis into the depth of education in Nigeria based on its educational facilities
+Made valuable insights into Nigeria&amp;rsquo;s education system such as the areas and school managements with predicted lower and higher levels of education. Comparison of the qualification levels of the different nigerian education managements Made use of matplotlib and seaborn to make visualizations and pandas and numpy for analysis and exploration
+Built eye catching visualizations with Tableau showing insights</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Web Scraping Goodreads romcom section</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 22 Oct 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-4/</guid>
+      <description>Perfected my web scraping skills by scraping content from goodreads (a book review site) Obtained titles, authors, rating, and description of all books in the romcom genre through multiple pages of the site Made use of python and beautiful soup as well as requests Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Sentiment Analysis on Elon Musk Tweets</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 19 Oct 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-5/</guid>
+      <description>Created a sentiment analysis on all elon musk tweets
+Made use of python, textblob and seaborn to create interactive visualizations Discovered a pattern in the tweets and dare I say into the inner workings of the mind of Elon Musk?&amp;hellip; based on his tweets anyway
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Data Analyis of Trending YouTube Comments Statistics</title>
+      <link>https://rou-va.github.io/Princess_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rou-va.github.io/Princess_Portfolio/post/project-6/</guid>
+      <description>Cleaned data set to ensure correct values and accuracy of analysis
+Ensured data fields were complete and filled with values as well as consistent and up to date
+Removed all duplicated values and data containing allowable values improving its validity
+Performed an exploration into the dataset making use of python and its libraries
+Performed sentiment analysis on the data Derived insights into the idea of a popular comment&amp;hellip; what makes a comment popular?</description>
+    </item>
+    
+  </channel>
+</rss>
